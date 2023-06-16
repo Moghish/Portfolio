@@ -1,8 +1,9 @@
 # [About Me]()
 ## I put my projects under four depositories 
+- [Python Projects]
 - [Data analysis projects]
 - [Dashboard projects]
-- [back end  projects]
+- [Xls projects]
 
 # Checkout My Other Profiles:
 - [LinkedIn] ()

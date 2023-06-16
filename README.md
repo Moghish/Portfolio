@@ -1,13 +1,13 @@
-# About Me[]
+# [About Me]()
 ## I put my projects under four depositories 
-- Data analysis projects
-- Dashboard projects
-- back end  projects
+- [Data analysis projects]
+- [Dashboard projects]
+- [back end  projects]
 
 # Checkout My Other Profiles:
-- LinkedIn[]
-- HackerRank[]
-- LeetCode[]
+- [LinkedIn] ()
+- [HackerRank] ()
+- [LeetCode] ()
 
 # Data Analysis Projects
 

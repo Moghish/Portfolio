@@ -6,17 +6,17 @@
 - [Xls projects]
 
 # Checkout My Other Profiles:
-- [LinkedIn] ()
-- [HackerRank] ()
-- [LeetCode] ()
+- [LinkedIn] (www.linkedin.com/in/md-moghish-uddin-21b6b715a)
+- [HackerRank] (https://www.hackerrank.com/mdmoghish?hr_r=1)
+- [LeetCode] (https://leetcode.com/mdmoghish/)
 
 # Data Analysis Projects
 
-## 1. Prject 1 []
+## 1. Project 1 []
 
-### Explaination in two lines
-- tools used data set  from kaggle 
+### Explanation in two lines
+- tools used data set  from Kaggle 
 - technology used
-- python 3 was used
-- objective to data analysis tof given data 
--  end result
+- Python 3 was used
+- objective to data analysis of given data 
+- result
